@@ -1,0 +1,2 @@
+class EmptyAttribute(object):
+    pass
